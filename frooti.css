@@ -1,0 +1,255 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navi-bar{
+    background-color:#333 ;
+    width: 100vmax;
+    height: 90px;
+    position: fixed;
+    display: flex;
+}
+.navi-bar .box1{
+
+    width: 30%;
+    height: 90px;
+}
+.box1 img{
+    color: #fff;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.navi-bar .box2{
+    width: 70%;
+    height: 90px;
+    display: flex;
+    gap: 39px;
+
+}
+.heading1{
+    color: #fff;
+    font-size: 16px;
+    font-family: "merivaregular";
+    padding-top: 30px;
+    cursor: pointer;
+}
+.heading1:hover{
+    color: red;
+}
+.heading2{
+    color: #fff;
+    font-size: 16px;
+    font-family: "merivaregular";
+    padding-top: 30px;
+    cursor: pointer;
+}
+.heading2:hover{
+    color: red;
+}
+.heading3{
+    color: #fff;
+    font-size: 16px;
+    font-family: "merivaregular";
+    padding-top: 30px;
+    cursor: pointer;;
+}
+.heading3:hover{
+    color: red;
+}
+.heading4{
+    color: #fff;
+    font-size: 16px;
+    font-family: "merivaregular";
+    padding-top: 30px;
+    cursor: pointer;
+}
+.heading4:hover{
+    color: red;
+}
+.heading5{
+    color: #fff;
+    font-size: 16px;
+    font-family: "merivaregular";
+    padding-top: 30px;
+    cursor: pointer;
+}
+.heading5:hover{
+    color: red;
+}
+.heading6{
+    color: #fff;
+    font-size: 16px;
+    font-family: "merivaregular";
+    padding-top: 30px;
+    cursor: pointer;
+}
+.heading6:hover{
+    color: red;
+}
+.heading7{
+    color: #fff;
+    font-size: 16px;
+    font-family: "merivaregular";
+    padding-top: 30px;
+    cursor: pointer;
+}
+.heading7:hover{
+    color: red;
+}
+.heading8{
+    color: #fff;
+    font-size: 16px;
+    font-family: "merivaregular";
+    padding-top: 30px;
+    cursor: pointer;
+}    
+.heading8:hover{
+    color: red;
+}
+.container1 img{
+    width: 100%;
+    height: auto;
+}
+.container2{
+     /* margin-bottom: 5px;  */
+}
+.container2 .right-section{
+    background-color:rgb(240, 145, 48);
+    width: 50%;
+    height: 1217px;
+    float: left; 
+}
+.right-animation{
+    height: 70vh;
+    width: 100%;
+}
+.h1-box{
+    width: 370px;
+    height: 70px;
+    font-size: 38px;
+    color: #fff;
+    margin-top: -235px;
+    margin-left: 180px;    
+}
+/* ------------leaf image----------- */
+#leafe-image{
+    width: 400px;
+    height: 280px;
+    /* margin-top: 490px; */
+    padding-left: 150px;
+}
+.right-section{
+    display: flex;
+    align-items: center;
+}
+.container2 .left-section{
+    background-color: #fff;
+    width:50% ;
+    height: 1217px;
+    float: left;
+}
+.para{
+    /* width: 100%; */
+    padding-top: 140px;
+    padding-left: 140px;
+    font-size: 24px;
+}
+.left-icons{
+    cursor: pointer;
+}
+.container3 img{
+    width: 100%;
+    height: auto;
+}
+.footer{
+    background-color: #fff;
+    padding: 50px;
+    width: 100%;
+    height:350px;
+}
+.footer-innerbox{
+    display: flex;
+    padding-top: 60px;
+    justify-content: space-evenly;
+
+}
+.footer-box1{
+    background-color:#fff ;
+    width: 23%;
+    height: 250px;
+}
+.footer-box2{
+    background-color:#fff ;
+    height: 250px;
+    width: 30%;
+}
+.footer-box2 .link1{
+    cursor: pointer;
+}
+#link1{
+    width:250px ;
+    cursor: pointer;
+}
+#link1:hover{
+    border-bottom: 1px solid black;
+}
+#link2{
+    width: 250px;
+    cursor: pointer;
+}
+#link2:hover{
+    border-bottom: 1px solid black;
+}
+#link3{
+    width: 300px;
+    cursor: pointer;
+}
+#link3:hover{
+    border-bottom: 1px solid black;
+}
+#link4{
+    width: 285px;
+    cursor: pointer;
+}
+#link4:hover{
+    border-bottom: 1px solid black;
+}
+.footer-box3{
+    background-color:#fff;
+    width: 24%;
+    height: 250px;
+}
+#link5{
+    cursor: pointer;
+    width: 150px;
+}
+#link5:hover{
+    border-bottom: 1px solid black;
+}
+#link6{
+    width: 170px;
+    cursor: pointer;
+}
+#link6:hover{
+    border-bottom: 1px solid black;
+}
+.icons img{
+    float: left;
+    cursor: pointer;
+}
+.icon1 img{
+    width: 40px;
+    height: 40px;
+}
+.icon2 img{
+    width:40px ;
+    height: 40px;
+}
+.icon3 img{
+    width:40px ;
+    height: 40px;
+}
+.icon4 img{
+    width:40px ;
+    height: 40px;
+}
